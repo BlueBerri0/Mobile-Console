@@ -1,2 +1,7 @@
 # Mobile-Console
-Mobile console
+Mobile console made by david calhoun
+updated to work 15 years later
+
+https://github.com/davidcalhoun/mobile-console
+
+i take no credit i did not make the original mobile console
